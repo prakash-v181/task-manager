@@ -1,0 +1,36 @@
+.statusHead{
+  max-width: 105px;
+  min-width: 102px;
+}
+
+li.item{
+  transition: .5s;
+}
+
+.item{
+  border-radius: 5px;
+}
+
+.item:hover{
+  box-shadow: 0px 5px 10px 4px #aaa;
+}
+
+.highlight{
+  box-shadow: 0px 5px 10px 4px #aaa;
+}
+
+.leftBorderNot-Started{
+  border-left: 5px solid #f47721;
+}
+
+.leftBorderIn-Progress{
+  border-left: 5px solid #00a4e4;
+}
+
+.leftBordercanceled{
+  border-left: 5px solid #ed1b2e;
+}
+
+.leftBordercompleted{
+  border-left: 5px solid #0abf53;
+}

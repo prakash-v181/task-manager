@@ -1,0 +1,16 @@
+.position-control{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.btn{
+    width: auto;
+    height: auto;
+    height: 40px;
+    border: 1px solid #eee;
+}
+
+.fa-trash.all{
+    color: white;
+}
